@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Vardhineedi Nandini — a final-year Computer Science student passionate about building intelligent systems and creating meaningful impact through technology.<br><br>🔭 I’m currently working on:<br>- Developing AI Agents that can reason, plan, and act autonomously across complex tasks<br>- Crafting animated content to simplify technical concepts and engage diverse audiences<br>- Writing a research paper in Cybersecurity, exploring AI-driven approaches to threat detection and prevention<br><br>👯 I’m looking to collaborate on:<br>- Agentic AI projects and multi-agent orchestration<br>- Creative content initiatives that blend tech and storytelling<br>- Research and innovation in cybersecurity and ethical AI<br><br>🌱 I’m currently learning:<br>- Advanced agent frameworks and tool integration<br>- Academic writing and publishing best practices<br><br>💬 Ask me about:<br>- Full-stack development with FastAPI, NextJS, and MongoDB<br>- GenAI, LLMs and AI Agents<br>- Organising impactful NSS and ACM events<br><br>⚡ Fun fact:<br>I believe technology should be intelligent and expressive, whether it's an AI agent solving problems or an animated character teaching cybersecurity.<br>
+Hi, I'm Vardhineedi Nandini — a final-year Computer Science student passionate about building intelligent systems and creating meaningful impact through technology.<br><br>🔭 I’m currently working on:<br>- Developing AI Agents that can reason, plan, and act autonomously across complex tasks<br>- Crafting animated content to simplify technical concepts and engage diverse audiences<br>- Writing a research paper in Cybersecurity, exploring AI-driven approaches to threat detection and prevention<br><br>👯 I’m looking to collaborate on:<br>- Agentic AI projects and multi-agent orchestration<br>- Creative content initiatives that blend tech and storytelling<br>- Research and innovation in cybersecurity and ethical AI<br><br>🌱 I’m currently learning:<br>- Advanced agent frameworks and tool integration<br>- Academic writing and publishing best practices<br><br>💬 Ask me about:<br>- Full-stack development with FastAPI, NextJS, and MongoDB<br>- GenAI, LLMs and AI Agents<br>- Organising impactful NSS and ACM events<br><br>
 
 
 ## 🌐 Socials:
@@ -15,8 +15,6 @@ Hi, I'm Vardhineedi Nandini — a final-year Computer Science student passionate
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nandinivardhineedi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nandinivardhineedi&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
